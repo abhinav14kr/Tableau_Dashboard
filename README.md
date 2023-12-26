@@ -7,3 +7,7 @@ Here's my blog post about it - https://abhinav14rd.wordpress.com/2023/10/31/my-f
 
 
 I will keep updating this dashboard as I learn more about Tableau and the features it offers.
+
+
+
+![Dashboard 1](https://github.com/abhinav14kr/Tableau_Dashboard/assets/139970672/831d97fa-ab02-445a-b381-ffa95163f529)
